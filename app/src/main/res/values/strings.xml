@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tick-tac-toe</string>
+    <string name="Play">Play</string>
+    <string name="LocalPVP">Local PVP(1 device)</string>
+    <string name="PvC">PvC</string>
+    <string name="Exit">Exit</string>
+    <string name="CurrentTurn"><b>Current Turn:</b></string>
+    <string name="p1Name"><b>Player 1 name</b></string>
+    <string name="p2Name"><b>Player 2 name(for PVP)</b></string>
+    <string name="Won"><b>Won!!!</b></string>
+    <string name="GB"><b>Green&amp;Blue edition</b></string>
+    <string name="Name"><b>Name</b></string>
+    <string name="Back_to_main_screen"><b>Back to main screen</b></string>
+    <string name="TextView"><b>TextView</b></string>
+</resources>
